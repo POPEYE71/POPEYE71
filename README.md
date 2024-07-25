@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @POPEYE71
-- 👀 I’m interested in ETH 
-- 🌱 I’m currently learning  C
+- 🌱 I’m currently learning C++ with DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rtoysingh@gmail.com
 
